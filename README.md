@@ -1,8 +1,7 @@
 # portfolio
 Hello, my name is Oksana Pozdnyak
-===
 I'm a frontend developer with 1 year experience
-===
+
 # My stack:
 * HTML
 * CSS
@@ -11,7 +10,7 @@ I'm a frontend developer with 1 year experience
 * React
 * Git
 * Figma
-===
+
 You can watch my portfolio [here](https://okspozdnyak.netlify.app/)
 
 # My certificates:
