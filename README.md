@@ -19,7 +19,7 @@ You can watch my portfolio [here](https://okspozdnyak.netlify.app/)
 * FreeCodeCamp: JavaScript Algorithms and Data Structures
 ![image](https://user-images.githubusercontent.com/97434342/225959071-1e4d7844-95a1-4a8f-9b73-c2c598007136.png)
 
-*Scrimba: Frontend Path
+* Scrimba: Frontend Path
 ![image](https://user-images.githubusercontent.com/97434342/225959301-2a710a61-c48c-402c-86f8-8cae3e1b2f1c.png)
 
 
