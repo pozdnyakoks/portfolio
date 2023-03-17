@@ -1,6 +1,5 @@
 # portfolio
-Hello, my name is Oksana Pozdnyak
-I'm a frontend developer with 1 year experience
+Hello, my name is Oksana Pozdnyak and I'm a frontend developer with 1 year experience
 
 # My stack:
 * HTML
