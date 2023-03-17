@@ -1,8 +1,8 @@
 # portfolio
-## Hello, my name is Oksana Pozdnyak
-
-# I'm a frontend developer with 1 year experience
-
+Hello, my name is Oksana Pozdnyak
+===
+I'm a frontend developer with 1 year experience
+===
 # My stack:
 * HTML
 * CSS
@@ -11,10 +11,10 @@
 * React
 * Git
 * Figma
+===
+You can watch my portfolio [here](https://okspozdnyak.netlify.app/)
 
-# You can watch my portfolio [here](https://okspozdnyak.netlify.app/)
-
-## My certificates:
+# My certificates:
 * FreeCodeCamp: Responsive Web Design
 ![image](https://user-images.githubusercontent.com/97434342/225958817-a3d90a2a-c92c-42f8-905a-cebd7bb68155.png)
 
@@ -25,7 +25,7 @@
 ![image](https://user-images.githubusercontent.com/97434342/225959301-2a710a61-c48c-402c-86f8-8cae3e1b2f1c.png)
 
 
-## Volonteer Project
+# Volonteer Project
 With the team all over the world making an app for homeless pets in Kazakhstan. As a frontend developer I'm building components here 
 [Pets shelter](https://develop--pet-shelter.netlify.app/)
 
