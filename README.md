@@ -11,6 +11,7 @@ Hello, my name is Oksana Pozdnyak and I'm a frontend developer with 1 year exper
 * Figma
 
 You can watch my portfolio [here](https://okspozdnyak.netlify.app/)
+You can watch my resume [here](https://drive.google.com/file/d/1OOJE46PXulOtt3tywPmTz17WgaL0P6EZ/view?usp=sharing)
 
 # My certificates:
 * FreeCodeCamp: Responsive Web Design
